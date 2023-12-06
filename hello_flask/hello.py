@@ -1,4 +1,4 @@
-from flask import Flask  
+def from flask import Flask  
 app = Flask(__name__)    
 @app.route('/')          
 
@@ -30,4 +30,4 @@ def raed():
     pass
 
 def add():
-    print()
+    print("hello")
