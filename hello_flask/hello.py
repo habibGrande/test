@@ -28,3 +28,6 @@ def ayahtest():#this is a test lines
 
 def raed():
     pass
+
+def add():
+    print()
